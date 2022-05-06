@@ -1,0 +1,16 @@
+.userleft, .usercontent{
+    float: left;
+    text-align: left;
+    margin-left: -300px;
+}
+.userleft{
+    width: 20%;
+}
+.usercontent{
+    margin-left: 10px;
+    width: 78%;
+}
+.userleft ul li{
+    list-style: none;
+}
+
